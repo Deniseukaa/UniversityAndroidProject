@@ -18,7 +18,7 @@
 		"@react-navigation/native-stack": "^6.9.14",
 		"@stripe/stripe-react-native": "0.28.0",
 		"@tanstack/react-query": "^5.8.9",
-		"axios": "^0.24.0",
+		"axios": "^1.6.0",
 		"expo": "~49.0.13",
 		"expo-document-picker": "~11.5.4",
 		"expo-image-picker": "~14.3.2",
